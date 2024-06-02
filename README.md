@@ -7,6 +7,7 @@ In this project, I crafted a comprehensive Tableau dashboard to visualize and an
 Steps Taken:
 
 Data Preparation 🛠️: I collected and preprocessed the data to ensure it was clean and well-structured for visualization in Tableau.
+
 Creating Donut Charts 🍩: I designed these charts to provide an intuitive breakdown of job distributions by employment type, experience level, and company size/location.
 
 Designing the Bar Chart 📊: I developed this bar chart to highlight the top 10 locations for employee residency, making it easy to identify where data science professionals are predominantly located.
@@ -14,6 +15,7 @@ Designing the Bar Chart 📊: I developed this bar chart to highlight the top 10
 Developing Circle Views 🔵: I chose circle views to illustrate the average salary by experience level and employment type due to their effectiveness in showing relative comparisons.
 
 Building the Map Visualization 🗺️: I created the map to offer a clear visual representation of how salaries vary across different countries, making geographical patterns easily recognizable.
+
 Constructing the Text Table 📋: I designed the text table to provide detailed salary information by job title and experience level, offering a granular view of salary data.
 
 Conclusion:
